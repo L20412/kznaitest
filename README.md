@@ -1,18 +1,13 @@
-# Your singer name
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Kizuna AI
+Kizuna AI is a female Japanese Virtual YouTuber who debuted on 29 November 2016. A pioneer in the VTuber field, she is credited with coining the phrase "Virtual Youtuber" and is one of the most successful VTubers of all time, reaching over 3 million YouTube subscribers.
 
 ## General information
-- Gender: test
-- Height: 111m
-- Weight: 222g
-- Age: 33
+- Gender: Female
+- Height: 156cm
+- Weight: 46kg
+- Age: ???
 
-## First test bank
+## Kizuna AI UTAU v0.4
 Test description 1
-- Type: Diffsinger
-- Languages: ru, jp
-
-## Second test bank
-Test description 2
 - Type: UTAU
-- Languages: en
+- Languages: jp
