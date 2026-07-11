@@ -18,4 +18,4 @@ Kizuna AI is a female Japanese Virtual YouTuber who debuted on 29 November 2016.
 - Languages: jp
 
 ## Videos
-[![Watch the video](https://i0.hdslb.com/bfs/archive/65a3995a77bca4746996d0ed311e8597e46ab0b1.jpg)](https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eZMV6JEaT)
+[UTAU cover: Kizuna AI UTAU - My Love](https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eZMV6JEaT)
